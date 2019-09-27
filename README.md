@@ -1,2 +1,1 @@
-# Summary_of_project_issues
-项目问题的汇总
+# 在B组和C组中开发中遇到的一些问题
